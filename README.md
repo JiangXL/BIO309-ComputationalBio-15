@@ -5,14 +5,14 @@ Computer Biology in SUSTech 2017, teached by JianKui He
 
 + | Jiankui He |Office room 336, The 1st faculty research building |
 
-+ | ³Âî£ | 11749245@mail.sustc.edu.cn| 15251701905 |
++ | é™ˆç¿ | 11749245@mail.sustc.edu.cn| 15251701905 |
 
-+ ÖÜËÄÍíÉÏ11µãÇ°½»×÷Òµ£¬Òª¼ÓÉÏÒıÓÃÎÄÏ×
- 
++ å‘¨å››æ™šä¸Š11ç‚¹å‰äº¤ä½œä¸šï¼Œè¦åŠ ä¸Šå¼•ç”¨æ–‡çŒ®
+
 Chanlenging Part
 + 8. Rapid Similarity search
 + 9. Multiple alignment
 
 ## Reference book
-[NCBI handbook](https://www.ncbi.nlm.nih.gov/books/NBK143764/), 
+[NCBI handbook](https://www.ncbi.nlm.nih.gov/books/NBK143764/),
 [EMBL-EBI](https://www.embl.org/)
