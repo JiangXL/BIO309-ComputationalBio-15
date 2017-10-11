@@ -1,0 +1,73 @@
+#! /usr/bin/perl
+# my first program 
+print "Hello world! \n";
+print "---------------------------------------\n";
+print "Here are difference between \" and \' \n";
+pint  \nUse  \" ";
+$value = 24;
+print "The value is $value\n";
+print "Use \' \n";
+print 'The value is $value\n';
+print "4+4\n";
+print 4+4, "\n";
+
+$seq=200;
+$new_seq=21;
+$percent=($new_seq/$seq)*100;
+
+print "Percent:", $percent, "\n";
+
+
+$seq1= "ACGT";
+$seq2 ="GGGCT";
+$seq3= $seq1.$seq2;
+print $seq3,"\n";
+
+
+$value = 6;
+print $value,"\n";
+print "The result is $value\n";
+print 'The result is $value';
+
+
+print "Name:";
+$name=<>;
+print "Before chomp: $name \n";
+chomp $name;
+print "After chomp: $name\n";
+
+
+open FILE1, 'good.txt';
+$line1=<FILE1>;
+print $line1,"\n";
+chomp $line1;
+print $line1,"\n";
+$line2=<FILE1>;
+chomp $line2;
+$line=$line1.$line2;
+print $line, "\n";
+
+open file2 ,'>output.txt';
+print file2 $line;
+
+
+print "enter your age:";
+$age =<>;
+chomp $age;
+if($age<21){
+    print "yes\n";
+    #die "t";
+}
+
+$A=10;
+
+if($A == 10) {
+    print "1\n";
+}elsif ($A>10){
+    print "2\n";
+}else {
+    print "3\n";    
+    die "die";
+}
+
+
