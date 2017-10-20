@@ -31,6 +31,7 @@ def sorce(seq_a,seq_b,m,mis,gap):
     sorce=np.zeros((len_a+1,len_b+1),dtype=np.int16)
     sorce[:,0]=gap*np.arange(len_a+1,dtype=np.int16)
     sorce[0,:]=gap*np.arange(len_b+1,dtype=np.int16)
+    track=np.zeros((len_a, len_b), dtype=np.int16)
     for i in np.arange(len_a,dtype=np.uint16):
         for j in np.arange(len_b,dtype=np.int16):
             s=0
@@ -45,6 +46,9 @@ def sorce(seq_a,seq_b,m,mis,gap):
                         )
             #print(seq_a[i],seq_b[j],"\n")
     return sorce
+
+def seqs( matrix,seq_a, seq_b):
+   for 
 
 #print(len(sorce(seq[0],seq[1],2,-1,-2)[0]))
 #print(len(seq))
