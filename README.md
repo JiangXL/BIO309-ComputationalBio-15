@@ -1,5 +1,6 @@
-![home](home.jpg)
 # BIO309-ComputeBio-15
+![home](home.jpg)
+
 Computer Biology in SUSTech 2017, teached by JianKui He
 
 ## Courses info
