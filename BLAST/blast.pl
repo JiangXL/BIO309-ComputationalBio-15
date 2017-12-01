@@ -4,6 +4,7 @@ use warnings;
 
 #  Slice the database
 
-#  slice simple seq
+######  Get the query
+
 
 # size matters
