@@ -1,6 +1,7 @@
 # BLAST
 The Basic Local Alignment Search Tool (Blast) finds regions of local similarity
 between sequences.
+> what is the mean of small letter in .fa
 
 ## Overview
 Blast(Basic Local Alignment Search Tool)
@@ -15,7 +16,7 @@ This is mid-term project of computational biology course.
 + Construct the human gnome library
   - Using Hash to construct genemic library(Map)
   - Overlap(How large)
-  - Using database to store the library(which info). Because the speed 
+  - Using database to store the library(which info). Because the speed
 + Scan the query sequence in library.
   - How to scan (二分搜索), search for matchers with high score[2]
 + Trace-back: Find the locations of insertions and delection for alignments.
@@ -25,6 +26,10 @@ This is mid-term project of computational biology course.
 |------------|--------------------------------
 |README.md   | REDME.md for this subdirectory
 |
+
+
+## Roadmap
++ Take a try of Shell
 
 ## Reference
 [1].http://www.biomedcentral.com/1471-2105/10/421
