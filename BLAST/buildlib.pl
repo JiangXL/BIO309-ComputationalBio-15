@@ -9,7 +9,7 @@ my $time0 = time();
 #open FAFILE, "test.fa";
 #open (FAFILE, "hg19.fa") or die "No such fasta file";
 open (FAFILE, "chr21.fa") or die "No such fasta file";
-my $chrname=<FAFILE>;
+#my $chrname=<FAFILE>;
 my $chr;  # chromosome
 
 # meger lines to string
@@ -22,16 +22,37 @@ while(my $line=<FAFILE>)
   $count=$count+1;
 }
 
-# store to database
+####### connect to databse ##############################
+use DBI;
+
+my $host = "localhost";         # 主机地址
+my $driver = "mysql";           # 接口类型 默认为 lo
+my $database = "HG19";        # 数据库
+# 驱动程序对象的句柄
+my $dsn = "DBI:$driver:database=$database:$host";
+my $userid = "moyj";            # 数据库用户名
+my $password = "moyj";        # 数据库密码
+
+my $dbh = DBI->connect($dsn, $userid, $password ) or die $DBI::errstr;
+
+
+############ store to database############################
 my $length=length $chr;
 my $worldlength=11;
 my $overlap=10;
+my $CHR=uc($chr);
 for(my $i =0; $i<$length; $i=$i+$overlap){
-  my $world=substr($chr,$i,$worldlength);
-  
-  #print("$world\n");
-
+  my $word=substr($CHR,$i,$worldlength);
+	my $sth = $dbh->prepare("SELECT INTO CHR21
+													(word,position)
+													values
+													(?,?)");   # 预处理 SQL  语句
+	$sth->execute($word,$i) or die $DBI::errstr;    # 行 SQL 操作
+	$sth->finish();
 }
+
+
+$dbh->disconnect();
 
 my $time1 = time();
 my $data_time =$time1-$time0;
