@@ -28,6 +28,8 @@
 
   <section|The population genetics and statistics before 1919> \ \ \ \ \ \ \ 
 
+  The story
+
   In 1908, Hardy and Weiberg principle each published papers describing a
   mathmatical relationship between allele frequencies and genotype
   frequencies. This relationship, now called the
@@ -41,6 +43,10 @@
   <with|font-shape|italic|q>.\ 
 
   \;
+
+  <section|Drawin Evolution and biometric>
+
+  <section|Finsher and Argcture>
 
   <section|The 14 years in Rothamsted Experiment Station>
 
@@ -79,6 +85,8 @@
     <associate|auto-2|<tuple|2|1>>
     <associate|auto-3|<tuple|3|1>>
     <associate|auto-4|<tuple|4|1>>
+    <associate|auto-5|<tuple|5|?>>
+    <associate|auto-6|<tuple|6|?>>
   </collection>
 </references>
 
