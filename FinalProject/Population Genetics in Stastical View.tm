@@ -1,4 +1,4 @@
-<TeXmacs|1.99.5>
+<TeXmacs|1.99.6>
 
 <style|article>
 
@@ -44,7 +44,31 @@
 
   \;
 
-  <section|Drawin Evolution and biometric>
+  \;
+
+  <section|Drawin's Evolution Theory and <with|font-shape|italic|Biometrika>
+  >
+
+  \;
+
+  In 1859, <with|font-series|bold|Charles Robert Drawin> published
+  <with|font-shape|italic|On the Origin of Species by Means of Natural
+  Selection, or the Preservation of Favoured Reaces in the Struggle for
+  Life<with|font-shape|right|. This book introduce idea\V
+  <with|font-series|bold|survival of the fittest>. It seem make sence. The
+  similariy of some specials, show that model organism can evolve from
+  pre-organism in the past. For example, different bird in isolative island
+  still are common in anatomy, and different embryon has similary, even human
+  embryo exist tail during the early development period. \ \ >>
+
+  However, Drawin can only explain why model organism exsite. In other words,
+  Drawin can not find a new speicals, which evolutes from old specials. The
+  problem inspired some mathematicians who appreciated evolution theory to
+  find the answers. In 1901, Francis Galton, Karl Pearson, and Raphael Weldon
+  established <with|font-shape|italic|Biometrika> to promote the study of
+  biometrics. In the frist issuse, they annonuce that, this new jourist will
+  collecct data from all over the world to meansure parameters. They expected
+  that parameter varivtion relate with enviornment varivition.\ 
 
   <section|Finsher and Argcture>
 
@@ -64,7 +88,7 @@
 
   \;
 
-  \;
+  https://en.wikipedia.org/wiki/Charles_Darwin
 
   \;
 
@@ -102,14 +126,22 @@
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-2><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|3<space|2spc>The
-      14 years in Rothamsted Experiment Station>
-      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|3<space|2spc>Drawin
+      Evolution and biometric> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-3><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|4<space|2spc>References>
-      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|4<space|2spc>Finsher
+      and Argcture> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-4><vspace|0.5fn>
+
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|5<space|2spc>The
+      14 years in Rothamsted Experiment Station>
+      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-5><vspace|0.5fn>
+
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|6<space|2spc>References>
+      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-6><vspace|0.5fn>
     </associate>
   </collection>
 </auxiliary>
