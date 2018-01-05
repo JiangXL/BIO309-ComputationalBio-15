@@ -10,7 +10,7 @@
 
   \;
 
-  <section|Abstract>
+  <section*|Abstract>
 
   <with|font-series|bold|Population genetics> is the subfield of genetics,
   which deals with genetic differences inside and between population, and is
@@ -68,7 +68,46 @@
   established <with|font-shape|italic|Biometrika> to promote the study of
   biometrics. In the frist issuse, they annonuce that, this new jourist will
   collecct data from all over the world to meansure parameters. They expected
-  that parameter varivtion relate with enviornment varivition.\ 
+  that parameter varivtion relate with enviornment varivition. Here
+  represents the mathemaical process.
+
+  <\quote-env>
+    It is intended taht <with|font-shape|italic|Biomerika> shall serve as a
+    means not only of collecting under one title biological data of a kind
+    not systematically collected or pulished in any other peiodical, but also
+    of spreading a knowledge of such statistical theory as may be requisite
+    for their scientific treatment.
+
+    A very few years ago, all those problems which depend for their slution
+    on a study of the differences between individual members of a race or
+    species, were neglected by most biologists. The complexity of organic
+    structure is so great, and the number of distinguishable formes so
+    enormous, that morphologists were obliged ot simplify their conceptions
+    by constructing for every sepcies an ideal type, to which the individuals
+    composing ti tconform with more or less eactness, and to neglect those
+    deviations from the type which actually occur. Such simplification was
+    ont only justifiable, but absolutely for many purposes; it has rendered
+    enormous service to biology in the past, it does so still, and will
+    continue to do so; nevertheless, there are many problems which cannot be
+    dealt with by its aid.
+
+    The starting point of Darwin's theory of evolution is precisely the
+    exsitence of those differences between individual members of a race or
+    species which morphologists for the most part rightly neglect. The first
+    condition necessary, in order that any process of Natural Selection may
+    begin among a race, or species, is the exsitence of differences among its
+    members; and the first step in an enquiry into the possible effect of a
+    selective process upon any character of a race must ge an estimate of the
+    frequency with which individuals, exhibiting any given degree of
+    abnormaylity whith respect to that character, occur. The unit, with which
+    such an enquiry must deal, is not an individual but a race, or a
+    statistically representaative sample of a race; and the result must take
+    the form of a numerical statement, showing the relative frequency with
+    which the varous konds od individuals composing the race occur.(\P(I.)
+    The Scope of Biometrika,\Q 1901)
+
+    \;
+  </quote-env>
 
   <section|Finsher and Argcture>
 
@@ -92,54 +131,67 @@
 
   \;
 
-  \;
+  <\with|font-base-size|5>
+    (I.) The Scope of Biometrika. (1901).
+    <with|font-shape|italic|Biometrika>, <with|font-shape|italic|1>(1), 1\U2.
+    <hlink|https://doi.org/10.1093/biomet/1.1.1|https://doi.org/10.1093/biomet/1.1.1>
 
-  \;
+    <\with|font-base-size|6>
+      \;
 
-  \;
+      \;
+    </with>
+  </with>
 
   \;
 
   \;
 </body>
 
+<\initial>
+  <\collection>
+    <associate|page-medium|paper>
+  </collection>
+</initial>
+
 <\references>
   <\collection>
-    <associate|auto-1|<tuple|1|1>>
-    <associate|auto-2|<tuple|2|1>>
-    <associate|auto-3|<tuple|3|1>>
-    <associate|auto-4|<tuple|4|1>>
-    <associate|auto-5|<tuple|5|?>>
-    <associate|auto-6|<tuple|6|?>>
+    <associate|auto-1|<tuple|?|1>>
+    <associate|auto-2|<tuple|1|1>>
+    <associate|auto-3|<tuple|2|1>>
+    <associate|auto-4|<tuple|3|2>>
+    <associate|auto-5|<tuple|4|2>>
+    <associate|auto-6|<tuple|5|2>>
   </collection>
 </references>
 
 <\auxiliary>
   <\collection>
     <\associate|toc>
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|1<space|2spc>Abstract>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|Abstract>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-1><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|2<space|2spc>The
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|1<space|2spc>The
       population genetics and statistics before 1919>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-2><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|3<space|2spc>Drawin
-      Evolution and biometric> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|2<space|2spc>Drawin's
+      Evolution Theory and <with|font-shape|<quote|italic>|Biometrika> >
+      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-3><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|4<space|2spc>Finsher
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|3<space|2spc>Finsher
       and Argcture> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-4><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|5<space|2spc>The
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|4<space|2spc>The
       14 years in Rothamsted Experiment Station>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-5><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|6<space|2spc>References>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|5<space|2spc>References>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-6><vspace|0.5fn>
     </associate>
