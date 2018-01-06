@@ -3,12 +3,10 @@
 <style|article>
 
 <\body>
-  <doc-data|<doc-title|Population Genetics with Statistical
+  <doc-data|<doc-title|Population Genetics with Statistics
   >|<doc-author|<author-data|<author-name|Yuejian Mo>|<\author-affiliation>
     12-21-2017
   </author-affiliation>>>>
-
-  \;
 
   <section*|Abstract>
 
@@ -22,29 +20,7 @@
   statistical to nowdays. Major fundamental and meaning topics of population
   genetics and modern statistical are reviewed, escpeically how to modern
   statical methods are being developed for answering population genetics
-  proplem.\ 
-
-  \;
-
-  <section|The population genetics and statistics before 1919> \ \ \ \ \ \ \ 
-
-  The story
-
-  In 1908, Hardy and Weiberg principle each published papers describing a
-  mathmatical relationship between allele frequencies and genotype
-  frequencies. This relationship, now called the
-  <with|font-series|bold|Hardy-Weinberg principle,> allows us to predict a
-  population's genotype frequencies from its allele frequencies.
-
-  It suppose that in a population, a particular gene is segregating two
-  alleles, <with|font-shape|italic|A >and <with|font-shape|italic|a>, and
-  that the frequency of <with|font-shape|italic|A> is
-  <with|font-shape|italic|p> and that of <with|font-shape|italic|a> is
-  <with|font-shape|italic|q>.\ 
-
-  \;
-
-  \;
+  proplem.
 
   <section|Drawin's Evolution Theory and <with|font-shape|italic|Biometrika>
   >
@@ -109,9 +85,8 @@
     \;
   </quote-env>
 
-  <section|Finsher and Argcture>
-
-  <section|The 14 years in Rothamsted Experiment Station>
+  <section|Finsher and Argriculture-The 14 years in Rothamsted Experiment
+  Station>
 
   <with|font-series|bold|Sir Ronald Aylmer Fisher FRS> (17 February 1890 -29
   July 1962), was a Brithsh statistician and geneticist. In 1919, he began
@@ -120,6 +95,12 @@
   developed the anaylsis of variance(ANOVA).\ 
 
   \;
+
+  \;
+
+  <section|Modern population genetics and Statistics>
+
+  Netural Theory,\ 
 
   <section|References>
 
@@ -183,7 +164,7 @@
       <no-break><pageref|auto-3><vspace|0.5fn>
 
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|3<space|2spc>Finsher
-      and Argcture> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      and Argriculture> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-4><vspace|0.5fn>
 
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|4<space|2spc>The
