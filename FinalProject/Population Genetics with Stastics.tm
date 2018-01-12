@@ -1,8 +1,10 @@
-<TeXmacs|1.99.5>
+<TeXmacs|1.99.6>
 
 <style|article>
 
 <\body>
+  <set-this-page-header|Re-Search the Light of Life>
+
   <doc-data|<doc-title|Population Genetics with Statistics
   >|<doc-author|<author-data|<author-name|Yuejian Mo>|<\author-affiliation>
     12-21-2017
@@ -21,7 +23,7 @@
   genetics and modern statistics are reviewed, escpeically how to modern
   statistical methods are being developed for answering population genetics
   proplem. This review attend to review the work of statistists do for
-  biological problems during 20 century.\ 
+  biological problems during 20 century.<cite*|>\ 
 
   <section*|<with|font-shape|italic|On the Origin of Species> and
   <with|font-shape|italic|The Scope of Biometrika> >
@@ -114,8 +116,8 @@
 
   Pearson was import in the founding of the school of biometrics, which was a
   competing theory to describe evolution and population inheritance at the
-  turn of the 20th century.(wikipedia). It is inte rsting that, the biometric
-  school, unlike the Mendelians, focused not on providing a mechanism for
+  turn of the 20th century. It is intersting that, the biometric school,
+  unlike the Mendelians, focused not on providing a mechanism for
   inheritance, but rather on providing a mathematical description for
   inheritance, but rather on providing a mathematical description for
   inheritance that was not causal in nature. Pearson criticized biologists
@@ -149,13 +151,13 @@
   Law, which showed mathematically how continuous variation could result from
   a number of discrete genetic loci.
 
-  Serve excellent pappers <with|font-shape|italic|Study in Crop Variation
-  >were published during 1918-1932. In the second paper,
-  <with|font-shape|italic|Study in Crop Varation II>, Fisher designed a
+  Several excellent pappers <with|font-shape|italic|Study in Crop Variation
+  >were published from 1918 to 1932. In the second paper,
+  <with|font-shape|italic|Study in Crop Varation II>, Fisher designed an
   experiment to determine the fluence of manure. This experiment was
   different with tranditional methods. \ Tranditionly, they used one kind of
   manure in a large farmland. But Fisher divided a large farmland into many
-  small area. Each area used manure or not. Althgoug it solve the bias of
+  small area. Each area used manure or not. Although it solve the bias of
   different large framland, each small area still are difference in some way.
   Fisher choosed to determine the action of each area in random. Any possible
   manure gradient will be zero in total.
@@ -176,7 +178,7 @@
   the evolution of industrial melanism in pepered moths.
 
   Works of Fisher, Haldane and others make it firmly based in mathermatical
-  modelling, its predictions confirmed by experiment , Natural selsetion ,
+  modelling, its predictions confirmed by experiment , Natural Seletion ,
   once considerd hoplessly unverfiable speculation abou history, was becoming
   predicated, meansurable, and testable. Their work helped to found the
   discipline of the theortical pupulation genetics.
@@ -188,32 +190,42 @@
   <\quotation>
     \PThey observed further that there are two groups of chanllegns to the
     way the modern synthesis viewed inheritance. The first is that other
-    modes such as epigenetic inheritance, phenotypic plasticity, and the
+    models such as epigenetic inheritance, phenotypic plasticity, and the
     materal effect allow new characteristics to arise and be passed on, and
     for the genes to cath up with the new adptaions later. The second is that
-    all such meacanisms are part, not of an inheritance system but a
+    all such mechanisms are part, not of an inheritance system but a
     developmetn system: The fundamental unit is not a discrete selfishly
-    competing gene, bu a collaborating system that works at levels from genes
-    and cells to organisms and cultures to guide evolution.\Q
+    competing gene, but a collaborating system that works at levels from
+    genes and cells to organisms and cultures to guide evolution.\Q
   </quotation>
+
+  \;
+
+  <section*|My idea>
+
+  It is very exiciting to know our predecessors has similiarity idea about
+  mathematics and biology. Finally I obtain deep thinks of the role of
+  evulution for biology. Now study mathematics and biology founmantal theory
+  meeting together.
 
   <\bibliography|bib|tm-plain|PopulationGeneticswithStastics>
     <\bib-list|1>
-      <bibitem*|1><label|bib-noauthor_karl_2017>Karl Pearson. <newblock>dec
-      2017. <newblock>Page Version ID: 814457871.<newblock>
+      <bibitem*|1><label|bib-noauthor_karl_2017>Wikipeida: K. Pearson, R.A.
+      Fisher
     </bib-list>
   </bibliography>
 
-  \;
+  [2 ]https://en.wikipedia.org/wiki/Charles_Darwin
 
-  https://en.wikipedia.org/wiki/Charles_Darwin
+  [3 ] The Scope of Biometrika. (1901). <with|font-shape|italic|Biometrika>.
+  1(1), 1-2.
 
-  \;
+  [4 ] The Origin of Speices
+
+  [5 ] The Tasting Lady
 
   <\with|font-base-size|5>
-    (I.) The Scope of Biometrika. (1901).
-    <with|font-shape|italic|Biometrika>, <with|font-shape|italic|1>(1), 1\U2.
-    <hlink|https://doi.org/10.1093/biomet/1.1.1|https://doi.org/10.1093/biomet/1.1.1>
+    \;
 
     <\with|font-base-size|6>
       \;
@@ -221,10 +233,6 @@
       \;
     </with>
   </with>
-
-  \;
-
-  <with-bib|bib|>
 </body>
 
 <\initial>
@@ -240,6 +248,7 @@
     <associate|auto-3|<tuple|4|2>>
     <associate|auto-4|<tuple|4|3>>
     <associate|auto-5|<tuple|4|3>>
+    <associate|auto-6|<tuple|4|?>>
     <associate|bib-noauthor_karl_2017|<tuple|1|3>>
   </collection>
 </references>
@@ -248,8 +257,6 @@
   <\collection>
     <\associate|bib>
       noauthor_karl_2017
-
-      noauthor_modern_2018
     </associate>
     <\associate|toc>
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|Abstract>
