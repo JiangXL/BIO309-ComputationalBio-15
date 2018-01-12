@@ -1,4 +1,4 @@
-<TeXmacs|1.99.6>
+<TeXmacs|1.99.5>
 
 <style|article>
 
@@ -233,6 +233,10 @@
       \;
     </with>
   </with>
+
+  https://en.wikipedia.org/wiki/Modern_synthesis_(20th_century)
+
+  https://en.wikipedia.org/wiki/On_the_Origin_of_Species
 </body>
 
 <\initial>
@@ -248,7 +252,7 @@
     <associate|auto-3|<tuple|4|2>>
     <associate|auto-4|<tuple|4|3>>
     <associate|auto-5|<tuple|4|3>>
-    <associate|auto-6|<tuple|4|?>>
+    <associate|auto-6|<tuple|4|3>>
     <associate|bib-noauthor_karl_2017|<tuple|1|3>>
   </collection>
 </references>
@@ -278,9 +282,13 @@
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-4><vspace|0.5fn>
 
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|My
+      idea> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-5><vspace|0.5fn>
+
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|Bibliography>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-5><vspace|0.5fn>
+      <no-break><pageref|auto-6><vspace|0.5fn>
     </associate>
   </collection>
 </auxiliary>
